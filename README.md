@@ -1,3 +1,4 @@
+HEAD
 # Portfolio Template
 
 A modern, professional, and production-ready portfolio template built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion. Perfect for developers, designers, and creative professionals looking to showcase their work.
@@ -271,3 +272,6 @@ For questions or support, please open an issue on GitHub.
 ---
 
 Built with ❤️ using Next.js and Tailwind CSS
+=======
+# personal-portfolio
+>>>>>>> origin/main
